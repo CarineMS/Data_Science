@@ -18,6 +18,6 @@ Minha credencial inclui graduação em Engenharia Elétrica pela Universidade Fe
 Os projetos publicados são:
 * [Ambientação ao SQL](https://github.com/CarineMS/Data_Science/blob/main/SQL.md);
 * [Identificação de Veículo Aéreo Não Tripulado por Preditor de Subespaço]();
-* [Análise de Colaboradores]();
+* [+BIKE](https://github.com/CarineMS/Data_Science/blob/main/DataScienceHandsOn_InfoEstatisticas.ipynb);
 
 ---
