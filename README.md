@@ -19,4 +19,5 @@ Os projetos publicados são:
 * [Ambientação ao SQL](https://github.com/CarineMS/Data_Science/blob/main/SQL.md);
 * [+BIKE](https://github.com/CarineMS/Data_Science/blob/main/DataScienceHandsOn_InfoEstatisticas.ipynb);
 * [Airbnb](https://github.com/CarineMS/Airbnb_Madrid/blob/main/Airbnb_Madrid.ipynb);
+* [Spotify](https://github.com/CarineMS/SpotifyTop10_2019/blob/main/Spotify_Top10.ipynb);
 ---
